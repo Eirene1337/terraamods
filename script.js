@@ -27,7 +27,7 @@ const mods = [
         downloads: 8240,
         rating: 4.8,
 
-        downloadUrl: "https://www.dropbox.com/scl/fi/8pc8bbe359tpts9kf32rn/Aetherfall.zip?rlkey=hg92s8pn814qv6rjeh2ymh4mx&st=1uwo7z5y&dl=1"
+        downloadUrl: "https://www.dropbox.com/scl/fi/d6qmnsz1y9djk9mgesza1/Aetherfall.zip?rlkey=eaqa9jfv1ah18kkbinqtkotg7&st=yx40gbsd&dl=1"
     },
 
     {
